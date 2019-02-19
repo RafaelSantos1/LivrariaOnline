@@ -1,0 +1,14 @@
+C:\Users\pc-desenv\source\repos\LivrariaOnline\LivrariaOnline.CrossCutting.IoC\bin\Debug\netcoreapp2.2\LivrariaOnline.CrossCutting.IoC.deps.json
+C:\Users\pc-desenv\source\repos\LivrariaOnline\LivrariaOnline.CrossCutting.IoC\bin\Debug\netcoreapp2.2\LivrariaOnline.CrossCutting.IoC.dll
+C:\Users\pc-desenv\source\repos\LivrariaOnline\LivrariaOnline.CrossCutting.IoC\obj\Debug\netcoreapp2.2\LivrariaOnline.CrossCutting.IoC.csproj.CoreCompileInputs.cache
+C:\Users\pc-desenv\source\repos\LivrariaOnline\LivrariaOnline.CrossCutting.IoC\obj\Debug\netcoreapp2.2\LivrariaOnline.CrossCutting.IoC.AssemblyInfoInputs.cache
+C:\Users\pc-desenv\source\repos\LivrariaOnline\LivrariaOnline.CrossCutting.IoC\obj\Debug\netcoreapp2.2\LivrariaOnline.CrossCutting.IoC.AssemblyInfo.cs
+C:\Users\pc-desenv\source\repos\LivrariaOnline\LivrariaOnline.CrossCutting.IoC\bin\Debug\netcoreapp2.2\LivrariaOnline.Domain.dll
+C:\Users\pc-desenv\source\repos\LivrariaOnline\LivrariaOnline.CrossCutting.IoC\bin\Debug\netcoreapp2.2\LivrariaOnline.Infra.Data.dll
+C:\Users\pc-desenv\source\repos\LivrariaOnline\LivrariaOnline.CrossCutting.IoC\bin\Debug\netcoreapp2.2\LivrariaOnline.Domain.pdb
+C:\Users\pc-desenv\source\repos\LivrariaOnline\LivrariaOnline.CrossCutting.IoC\bin\Debug\netcoreapp2.2\LivrariaOnline.Infra.Data.pdb
+C:\Users\pc-desenv\source\repos\LivrariaOnline\LivrariaOnline.CrossCutting.IoC\obj\Debug\netcoreapp2.2\LivrariaOnline.CrossCutting.IoC.csprojAssemblyReference.cache
+C:\Users\pc-desenv\source\repos\LivrariaOnline\LivrariaOnline.CrossCutting.IoC\obj\Debug\netcoreapp2.2\LivrariaOnline.CrossCutting.IoC.csproj.CopyComplete
+C:\Users\pc-desenv\source\repos\LivrariaOnline\LivrariaOnline.CrossCutting.IoC\bin\Debug\netcoreapp2.2\LivrariaOnline.CrossCutting.IoC.pdb
+C:\Users\pc-desenv\source\repos\LivrariaOnline\LivrariaOnline.CrossCutting.IoC\obj\Debug\netcoreapp2.2\LivrariaOnline.CrossCutting.IoC.dll
+C:\Users\pc-desenv\source\repos\LivrariaOnline\LivrariaOnline.CrossCutting.IoC\obj\Debug\netcoreapp2.2\LivrariaOnline.CrossCutting.IoC.pdb

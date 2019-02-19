@@ -1,0 +1,8 @@
+C:\Users\pc-desenv\source\repos\LivrariaOnline\LivrariaOnline.Domain\bin\Debug\netcoreapp2.2\LivrariaOnline.Domain.deps.json
+C:\Users\pc-desenv\source\repos\LivrariaOnline\LivrariaOnline.Domain\bin\Debug\netcoreapp2.2\LivrariaOnline.Domain.dll
+C:\Users\pc-desenv\source\repos\LivrariaOnline\LivrariaOnline.Domain\obj\Debug\netcoreapp2.2\LivrariaOnline.Domain.csproj.CoreCompileInputs.cache
+C:\Users\pc-desenv\source\repos\LivrariaOnline\LivrariaOnline.Domain\obj\Debug\netcoreapp2.2\LivrariaOnline.Domain.AssemblyInfoInputs.cache
+C:\Users\pc-desenv\source\repos\LivrariaOnline\LivrariaOnline.Domain\obj\Debug\netcoreapp2.2\LivrariaOnline.Domain.AssemblyInfo.cs
+C:\Users\pc-desenv\source\repos\LivrariaOnline\LivrariaOnline.Domain\bin\Debug\netcoreapp2.2\LivrariaOnline.Domain.pdb
+C:\Users\pc-desenv\source\repos\LivrariaOnline\LivrariaOnline.Domain\obj\Debug\netcoreapp2.2\LivrariaOnline.Domain.dll
+C:\Users\pc-desenv\source\repos\LivrariaOnline\LivrariaOnline.Domain\obj\Debug\netcoreapp2.2\LivrariaOnline.Domain.pdb

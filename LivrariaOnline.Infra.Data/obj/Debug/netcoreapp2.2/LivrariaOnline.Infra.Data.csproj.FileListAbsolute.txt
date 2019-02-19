@@ -1,0 +1,12 @@
+C:\Users\pc-desenv\source\repos\LivrariaOnline\LivrariaOnline.Infra.Data\bin\Debug\netcoreapp2.2\LivrariaOnline.Infra.Data.deps.json
+C:\Users\pc-desenv\source\repos\LivrariaOnline\LivrariaOnline.Infra.Data\bin\Debug\netcoreapp2.2\LivrariaOnline.Infra.Data.dll
+C:\Users\pc-desenv\source\repos\LivrariaOnline\LivrariaOnline.Infra.Data\bin\Debug\netcoreapp2.2\LivrariaOnline.Domain.dll
+C:\Users\pc-desenv\source\repos\LivrariaOnline\LivrariaOnline.Infra.Data\bin\Debug\netcoreapp2.2\LivrariaOnline.Domain.pdb
+C:\Users\pc-desenv\source\repos\LivrariaOnline\LivrariaOnline.Infra.Data\obj\Debug\netcoreapp2.2\LivrariaOnline.Infra.Data.csprojAssemblyReference.cache
+C:\Users\pc-desenv\source\repos\LivrariaOnline\LivrariaOnline.Infra.Data\obj\Debug\netcoreapp2.2\LivrariaOnline.Infra.Data.csproj.CoreCompileInputs.cache
+C:\Users\pc-desenv\source\repos\LivrariaOnline\LivrariaOnline.Infra.Data\obj\Debug\netcoreapp2.2\LivrariaOnline.Infra.Data.AssemblyInfoInputs.cache
+C:\Users\pc-desenv\source\repos\LivrariaOnline\LivrariaOnline.Infra.Data\obj\Debug\netcoreapp2.2\LivrariaOnline.Infra.Data.AssemblyInfo.cs
+C:\Users\pc-desenv\source\repos\LivrariaOnline\LivrariaOnline.Infra.Data\obj\Debug\netcoreapp2.2\LivrariaOnline.Infra.Data.csproj.CopyComplete
+C:\Users\pc-desenv\source\repos\LivrariaOnline\LivrariaOnline.Infra.Data\bin\Debug\netcoreapp2.2\LivrariaOnline.Infra.Data.pdb
+C:\Users\pc-desenv\source\repos\LivrariaOnline\LivrariaOnline.Infra.Data\obj\Debug\netcoreapp2.2\LivrariaOnline.Infra.Data.dll
+C:\Users\pc-desenv\source\repos\LivrariaOnline\LivrariaOnline.Infra.Data\obj\Debug\netcoreapp2.2\LivrariaOnline.Infra.Data.pdb
